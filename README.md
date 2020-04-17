@@ -1,3 +1,7 @@
+netlifyで世界中にアプリを公開(下記リンク参照)。
+
+https://heyvuejs.netlify.app/
+
 # spa-vuejs
 
 > A Vue.js project
