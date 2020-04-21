@@ -1,4 +1,4 @@
-netlifyで世界中にアプリを公開(下記リンク参照)。
+デプロイしたアプリ（下記のリンク参照）
 
 https://heyvuejs.netlify.app/
 
