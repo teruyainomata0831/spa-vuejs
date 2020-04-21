@@ -1,4 +1,4 @@
-デプロイしたアプリ（下記のリンク参照）
+デプロイしたアプリ
 
 https://heyvuejs.netlify.app/
 
