@@ -1,4 +1,5 @@
-デプロイしたサイト（下記参照）
+サイトは下記リンクからご覧になれます
+
 https://heyvuejs.netlify.app/
 
 # spa-vuejs
